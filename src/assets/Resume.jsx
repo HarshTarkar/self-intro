@@ -1,4 +1,4 @@
-import resume from "/Test Resume.docx?url"
+import resume from "/Harsh Tarkar - Resume.pdf?url"
 
 function Resume() {
     return (
